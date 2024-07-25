@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a 4th-year software engineering student at the
 
 ![Fun Fact](https://i.imgur.com/Y7UivKh.gif) 
 
-I play futsal and speak many languages! 🌍
+I play futsal and am a freelance photographer! (Let me know if you want to see my portfolio)
 
 ## 📫 Connect with Me
 
