@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hello, I'm Noe!
 
-Welcome to my GitHub profile! I'm a 4th-year software engineering student at the University of Sydney, specializing in Computer Engineering. I love creating innovative solutions and building robust applications. Here, you'll find a collection of my projects, showcasing my skills in software development, game design, machine learning, and more.
+Welcome to my GitHub profile! I’m a 4th-year Software Engineering student at the University of Sydney, specializing in Computer Engineering. I’m passionate about creating impactful, AI-driven applications and scalable solutions that address real-world challenges. Here, you'll find projects showcasing my work across web development, machine learning, mobile applications, and more.
 
 ## 🎓 Education
 
@@ -28,21 +28,21 @@ Welcome to my GitHub profile! I'm a 4th-year software engineering student at the
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, Java, C, SQL, C++, R, AVR
-- **Frameworks:** Django, Flask
-- **Tools:** Arduino, RStudio, Pandas, Jira, GitHub, Git, Verilog
-- **Specialties:** Game Development, Machine Learning, Distributed Systems, FPGA, Agile Development
+- **Frameworks:** React Native, Next.js, Spring Boot, Django, Node.js
+- **Tools:** Arduino, RStudio, Pandas, Jira, GitHub, Git, Verilog, Firebase
+- **Specialties:** Full-Stack Development, AI & Machine Learning, Distributed Systems, Agile Development, System Design
 
 ## 🌟 Learning Goals
 
-- Advancing my expertise in machine learning and AI
-- Deepening my understanding of distributed computing
-- Exploring the latest trends in communications technology
+- Researching multi-UAV object tracking with AI for my thesis
+- Expanding my knowledge in advanced AI and large language models (LLMs)
+- Building applications with React Native and Spring Boot for seamless user experiences
 
 ## ⚽ Fun Fact
 
 ![Fun Fact](https://i.imgur.com/Y7UivKh.gif) 
 
-I play futsal and am a freelance photographer! (Let me know if you want to see my portfolio)
+Outside of engineering, I stay active by playing futsal and badminton. When I'm not on the court, I’m capturing unique moments through freelance photography. Feel free to reach out if you'd like to see my portfolio! 📸
 
 ## 📫 Connect with Me
 
@@ -51,7 +51,7 @@ I play futsal and am a freelance photographer! (Let me know if you want to see m
 
 ## 🚀 Let's Collaborate!
 
-I'm always open to new opportunities and collaborations. Feel free to explore my repositories, provide feedback, or reach out if you have any exciting projects in mind. Let's build something amazing together!
+I'm always open to new opportunities and collaborations, especially in AI, machine learning, and full-stack development. Explore my repositories, leave feedback, or reach out if you have an exciting project in mind. Let’s create something impactful together!
 
 ---
 
@@ -61,4 +61,4 @@ I'm always open to new opportunities and collaborations. Feel free to explore my
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noejacob7&layout=compact&theme=radical)
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for stopping by! 😊
