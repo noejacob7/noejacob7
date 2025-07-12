@@ -1,64 +1,74 @@
-<!--
-**noejacob7/noejacob7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=noejacob7&label=Profile+Views&color=0e75b6&style=flat-square" alt="noejacob7" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23F7C548&size=45&center=true&vCenter=true&width=600&lines=Heyyy!+I'm+Noe+Jacob;Welcome+to+my+profile!" alt="Typing Header" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 About Me
 
-# 👋 Hello, I'm Noe!
+Hi! I'm **Noe Jacob**, a Software Engineer based in Sydney 🇦🇺. I recently graduated from the University of Sydney with a specialization in **Computer Engineering**, and I’m passionate about building scalable systems, intuitive interfaces, and AI-powered solutions.
 
-Welcome to my GitHub profile! I’m a 4th-year Software Engineering student at the University of Sydney, specializing in Computer Engineering. I’m passionate about creating impactful, AI-driven applications and scalable solutions that address real-world challenges. Here, you'll find projects showcasing my work across web development, machine learning, mobile applications, and more.
+- 🧠 Completed research on **Multi-UAV Object Re-ID with ML and Cooperative Control**
+- 🧩 Worked as a **Technical Consultant** redesigning the university’s 5,000+ user PEP system, introducing AI-assisted workflows and saving $220k annually
+- 👨‍🏫 Taught over 1,800 students across AI, embedded systems, and OS design
 
-## 🎓 Education
+## 💻 Tech Stack
 
-**Bachelor of Engineering Honours (Software)**
-- **University:** The University of Sydney
-- **Graduation:** July 2025
-- **Specialization:** Computer Engineering
-- **Awards:** Sydney Scholars India Scholarship, Sydney International Student Award (20%), Dalyell Scholar
+### <u> Languages </u>  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-microcontroller-blue?style=for-the-badge)
 
-## 🔧 Technologies & Tools
+### <u> Frameworks & Libraries </u>  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- **Languages:** Python, Java, C, SQL, C++, R, AVR
-- **Frameworks:** React Native, Next.js, Spring Boot, Django, Node.js
-- **Tools:** Arduino, RStudio, Pandas, Jira, GitHub, Git, Verilog, Firebase
-- **Specialties:** Full-Stack Development, AI & Machine Learning, Distributed Systems, Agile Development, System Design
+### <u> Tools & Platforms </u>  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌟 Learning Goals
+### <u> AI / ML </u>  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-- Researching multi-UAV object tracking with AI for my thesis
-- Expanding my knowledge in advanced AI and large language models (LLMs)
-- Building applications with React Native and Spring Boot for seamless user experiences
+## 📫 Connect With Me
 
-## ⚽ Fun Fact
-
-![Fun Fact](https://i.imgur.com/Y7UivKh.gif) 
-
-Outside of engineering, I stay active by playing futsal and badminton. When I'm not on the court, I’m capturing unique moments through freelance photography. Feel free to reach out if you'd like to see my portfolio! 📸
-
-## 📫 Connect with Me
-
+[![Portfolio](https://img.shields.io/badge/Website-noejacob.com-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://noejacob.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noejacob)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noecjacob02@gmail.com)
 
-## 🚀 Let's Collaborate!
+## ⚡ Fun Fact
 
-I'm always open to new opportunities and collaborations, especially in AI, machine learning, and full-stack development. Explore my repositories, leave feedback, or reach out if you have an exciting project in mind. Let’s create something impactful together!
+![Fun Fact](https://i.imgur.com/Y7UivKh.gif)
 
----
+When I’m not coding, you’ll probably find me on the **futsal** or **badminton** court 🏸⚽—or behind the camera 📸 shooting for **Sportograf** at marathons and sports events!
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats & Activity
 
-![Noe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noejacob7&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=noejacob7&show_icons=true&theme=radical" alt="Noe's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noejacob7&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noejacob7&layout=compact&theme=radical)
+<!-- GitHub Snake Contribution Graph -->
 
-Thanks for stopping by! 😊
+
+<p align="center">✨ Thanks for scrolling! Let’s build something that actually matters. ✨</p>
