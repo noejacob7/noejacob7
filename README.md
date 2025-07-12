@@ -72,8 +72,12 @@ When I’m not coding, you’ll probably find me on the **futsal** or **badminto
 
 <h2 align="center">🎮 Pac-Man is eating my contributions!</h2>
 
-<p align="center">
-  <iframe src="https://pacman-contrib.vercel.app/noejacob7" frameborder="0" width="800" height="400"></iframe>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noejacob7/noejacob7/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noejacob7/noejacob7/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/noejacob7/noejacob7/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
 
 <p align="center">✨ Thanks for scrolling! Let’s build something that actually matters. ✨</p>
