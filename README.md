@@ -68,7 +68,12 @@ When I’m not coding, you’ll probably find me on the **futsal** or **badminto
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noejacob7&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- GitHub Snake Contribution Graph -->
+<!-- GitHub Contribution Graph -->
 
+<h2 align="center">🎮 Pac-Man is eating my contributions!</h2>
+
+<p align="center">
+  <iframe src="https://pacman-contrib.vercel.app/noejacob7" frameborder="0" width="800" height="400"></iframe>
+</p>
 
 <p align="center">✨ Thanks for scrolling! Let’s build something that actually matters. ✨</p>
